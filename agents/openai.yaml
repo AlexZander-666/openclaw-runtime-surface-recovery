@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Runtime Surface Recovery"
+  short_description: "Diagnose missing bundled public surfaces"
+  default_prompt: "Use $openclaw-runtime-surface-recovery to diagnose OpenClaw channel reply failures caused by missing bundled runtime public surfaces."
